@@ -1,3 +1,19 @@
 body{
-	background-color: #ff66ff;
+	background-color: #008000;
+}
+
+.font{
+	font-family: fantasy;
+	font-size: 70px;
+	color: #ffd24d;
+}
+
+#color{
+	font-family: fantasy;
+	color: #ffd24d;
+}
+
+#yes{
+	font-family: fantasy;
+	color: #ffd24d;
 }
